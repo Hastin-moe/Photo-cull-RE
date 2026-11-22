@@ -1,0 +1,20 @@
+Copyright (c) 2026 Hastin-moe. All rights reserved.
+版权所有 © 2026 Hastin-moe，保留所有权利。
+
+This software and its source code are proprietary. You may not copy, modify,
+distribute, sublicense or sell any part of it without the copyright holder's
+prior written permission. Use of the packaged application requires a valid
+activation code issued by the copyright holder.
+
+本软件及其源代码为私有财产。未经版权所有者事先书面许可，不得复制、修改、
+分发、再许可或出售其任何部分。使用打包好的应用需要版权所有者发放的有效激活码。
+
+Versions up to and including 1.9-beta were previously published under the MIT
+License; copies of those versions obtained under that license remain under it.
+1.9-beta 及更早公开发布的版本曾以 MIT 许可证发布，依该许可证取得的那些版本副本仍适用 MIT 许可证。
+
+Third-party components keep their own licenses (see requirements.txt and
+luts/说明.txt). Film Lab (photo-cull-film) is a separate program licensed
+under GPLv3 and is not part of this software.
+第三方组件按各自的许可证（见 requirements.txt 和 luts/说明.txt）。
+胶片冲印（photo-cull-film）是单独的程序，以 GPLv3 发布，不属于本软件。
